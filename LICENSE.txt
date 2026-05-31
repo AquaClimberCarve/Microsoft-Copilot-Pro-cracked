@@ -17,4 +17,4 @@ Microsoft Copilot Pro Edition. AI assistant for Word, Excel, PowerPoint, Outlook
 
 
 TAGS
-microsoft-copilot, m365-copilot, microsoft-365-ai, office-ai, gpt-4-turbo                                  
+microsoft-copilot, m365-copilot, microsoft-365-ai, office-ai, gpt-4-turbo                                   
